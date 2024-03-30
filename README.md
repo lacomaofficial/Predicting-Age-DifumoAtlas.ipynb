@@ -3,11 +3,6 @@
 ### Introduction
 In this project, we utilize resting-state fMRI data to explore brain connectivity patterns and predict age. The dataset used for this analysis consists of functional MRI images, confound variables, and phenotypic information for each subject.
 
-### Usage
-To run the code, follow these steps:
-1. Install the necessary libraries listed in the requirements.txt file.
-2. Clone the repository to your local machine.
-3. Execute the provided Python scripts in the given order.
 
 ### Code Overview
 Here's a breakdown of the main sections of the code:
