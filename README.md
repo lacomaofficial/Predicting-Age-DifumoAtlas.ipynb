@@ -37,8 +37,8 @@ Here's a breakdown of the main sections of the code:
 ### Conclusion
 This project demonstrates how resting-state fMRI data can be used to predict age and explore brain connectivity patterns. By leveraging machine learning techniques and neuroimaging tools, we gain insights into the functional organization of the brain and its relationship with age-related changes. Further analysis and refinement of the models can lead to advancements in understanding brain development and aging processes.
 
-![image](https://github.com/lacomaofficial/Predicting-Age-DifumoAtlas.ipynb/assets/132283879/e12f9d1d-c90f-4e8a-a8e1-6536a40a4d81)
+
 
 ![image](https://github.com/lacomaofficial/Predicting-Age-DifumoAtlas.ipynb/assets/132283879/7741bf11-51bf-4268-8469-e860e14a48f1)
-
+![image](https://github.com/lacomaofficial/Predicting-Age-DifumoAtlas.ipynb/assets/132283879/e12f9d1d-c90f-4e8a-a8e1-6536a40a4d81)
 
