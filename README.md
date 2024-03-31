@@ -3,7 +3,8 @@
 ### Introduction
 In this project, we utilize resting-state fMRI data to explore brain connectivity patterns and predict age. The dataset used for this analysis consists of functional MRI images, confound variables, and phenotypic information for each subject.
 
-### Results:
+
+### Results
 
 The analysis revealed significant connectivity patterns between the transverse sinus and the inferior occipital gyrus, two brain regions with distinct roles in computational neuroscience.
 
