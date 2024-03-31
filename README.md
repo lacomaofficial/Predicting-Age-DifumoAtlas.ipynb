@@ -3,6 +3,16 @@
 ### Introduction
 In this project, we utilize resting-state fMRI data to explore brain connectivity patterns and predict age. The dataset used for this analysis consists of functional MRI images, confound variables, and phenotypic information for each subject.
 
+### Results:
+
+The analysis revealed significant connectivity patterns between the transverse sinus and the inferior occipital gyrus, two brain regions with distinct roles in computational neuroscience.
+
+1. **Transverse Sinus**: While the transverse sinus itself does not perform cognitive functions, variations in its connectivity with other brain regions may indicate underlying physiological processes related to blood flow regulation or vascular health. The positive coefficient (0.4429) suggests that changes in the connectivity strength between the transverse sinus and the inferior occipital gyrus are associated with the outcome of interest, potentially reflecting alterations in brain perfusion or vascular integrity.
+
+2. **Inferior Occipital Gyrus**: This brain region is primarily involved in visual processing, including object recognition, shape perception, and visual motion detection. Dysfunction in the inferior occipital gyrus can lead to visual processing deficits. The bidirectional influence between the inferior occipital gyrus and the transverse sinus, indicated by similar coefficient values, suggests reciprocal interactions or feedback loops between visual processing and vascular dynamics.
+
+In summary, understanding the connectivity patterns between these regions provides insights into the complex interplay between vascular health and visual processing, highlighting the importance of considering both physiological and cognitive factors in computational neuroscience research.
+
 
 ### Code Overview
 Here's a breakdown of the main sections of the code:
