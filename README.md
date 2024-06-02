@@ -1,4 +1,4 @@
-## Exploring Brain Connectivity Patterns to Predict Age: Insights from Resting-State fMRI Data
+## Regression Model to Predict Age from Resting-State fMRI Data
 
 ### Introduction
 In this project, we utilize resting-state fMRI data to explore brain connectivity patterns and predict age. The dataset used for this analysis consists of functional MRI images, confound variables, and phenotypic information for each subject.
