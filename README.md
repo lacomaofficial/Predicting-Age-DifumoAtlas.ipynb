@@ -39,6 +39,8 @@ This project demonstrates how resting-state fMRI data can be used to predict age
 
 ![download](https://github.com/lacomaofficial/Predicting-Age-DifumoAtlas.ipynb/assets/132283879/82fcd07d-e1e7-45ee-a248-753ee4815e9b)
 
+![image](https://github.com/lacomaofficial/Regression-Model-to-Predict-Age-rsfMRI/assets/132283879/480d33fd-edbf-43c2-ae52-80cb0b08717d)
+
 
 
 
